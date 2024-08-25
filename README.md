@@ -32,16 +32,6 @@ git clone git@github.com:Mohamadaliibrahim/get_next_line.git
 cd get_next_line
 ```
 
-### Building the Library
-
-To compile the library, simply run:
-
-```bash
-make
-```
-
-This will generate the `libgnl.a` static library file, which you can link against in your projects.
-
 ## Function Prototype
 
 ```c
