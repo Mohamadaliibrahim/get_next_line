@@ -28,7 +28,7 @@ To compile and use `get_next_line`, you need:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Mohamadaliibrahim/get_next_line
+git clone git@github.com:Mohamadaliibrahim/get_next_line.git
 cd get_next_line
 ```
 
