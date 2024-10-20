@@ -29,7 +29,10 @@ Clone the repository to your local machine:
 
 ```bash
 git clone git@github.com:Mohamadaliibrahim/get_next_line.git
-cd get_next_line
+```
+Enter the file:
+```bash
+cd get_next_line/get_next_line
 ```
 
 ## Function Prototype
@@ -49,7 +52,7 @@ char *get_next_line(int fd);
 To use `get_next_line` in your project, include the library header:
 
 ```c
-#include "get_next_line.h"
+#include "get_next_line/inc/get_next_line.h"
 ```
 
 Example usage:
