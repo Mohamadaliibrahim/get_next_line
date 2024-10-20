@@ -3,15 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mohamibr <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mohamibr <mohamibr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/26 17:27:54 by mohamibr          #+#    #+#             */
-/*   Updated: 2024/06/26 17:27:56 by mohamibr         ###   ########.fr       */
+/*   Updated: 2024/10/20 15:34:10 by mohamibr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-
-#include "get_next_line.h"
+#include "../inc/get_next_line.h"
 
 char	*ft_strdup(char *s1)
 {

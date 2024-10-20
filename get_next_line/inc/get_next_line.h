@@ -3,13 +3,12 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mohamibr <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: mohamibr <mohamibr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/26 17:27:37 by mohamibr          #+#    #+#             */
-/*   Updated: 2024/06/26 17:27:48 by mohamibr         ###   ########.fr       */
+/*   Updated: 2024/10/20 15:34:16 by mohamibr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
